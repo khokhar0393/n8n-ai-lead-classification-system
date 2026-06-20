@@ -52,5 +52,5 @@ The AI analyzes each lead and returns:
 
 ## Author
 
-Huzaifa Irfan
+BAbar Abbas Khokhar
 AI Automation Developer
